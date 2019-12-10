@@ -7,13 +7,18 @@ h1 {
 }
 
 body {
-    background-color: goldenrod;
+    background-image: url("matrix-1735640_1920.jpg");
+    background-attachment: fixed;
     text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
     font-weight: bolder;
     text-decoration: none;
+    color: aqua;
 }
 
 a:hover {
