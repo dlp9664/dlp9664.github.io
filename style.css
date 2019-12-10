@@ -31,13 +31,13 @@ a:hover {
 }
 
 .js {
-    width: 30%;
+    width: 40%;
     background-color: #f44336;
 }
 
 .java {
-    width: 40%;
-    background-color: #808080;
+    width: 30%;
+    background-color: #000000;
 }
 
 .container {
