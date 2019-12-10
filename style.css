@@ -12,7 +12,11 @@ body {
     text-align: center;
     color: white;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; 
+}
+p{
+    color: white;
+    font-weight: 500;
 }
 
 a {
